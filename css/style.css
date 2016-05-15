@@ -3,18 +3,18 @@
     padding: 0;
 }
 
-body {
+bodyInvalid {
     font-family: 'Roboto Slab', serif;
     padding: 40px;
     font-size: 14px; 
 }
 
-h1 { 
+h1Invalid { 
     font-size: 32px;
     padding: 0 0 0 20px;
 }
 
-h2 {
+h2Invalid {
     font-size: 18px;
     padding: 10px 0 0 20px;
 }
@@ -45,12 +45,12 @@ input {
     margin: 10px 0;
 }
 
-.footer {
+.footerInvalid {
     width: 200px;
     text-align: center;
     margin: 100px auto 100px auto;
 }
 
-a {
+aInvalid {
     color: #ff5c5b;
 }
